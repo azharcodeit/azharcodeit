@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 𝗦𝘁𝗮𝘁𝘀
+
+![azharcodeit's github stats](https://github-readme-stats.vercel.app/api?username=azharcodeit&show=commits,contribs&hide=stars&hide_rank=true&theme=transparent)
