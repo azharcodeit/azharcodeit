@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![azharcodeit's github stats](https://github-readme-stats.vercel.app/api?username=azharcodeit&show=commits,contribs&hide=stars&hide_rank=true)
+[![azharcodeit's github stats](https://github-readme-stats.vercel.app/api?username=azharcodeit&show=commits,contribs&hide=stars&hide_rank=true&hide_title=true&show_icons=true&text_color=FFFFFF&theme=transparent#gh-dark-mode-only)](https://github.com/azharcodeit/github-readme-stats#gh-dark-mode-only)
+[![azharcodeit's github stats](https://github-readme-stats.vercel.app/api?username=azharcodeit&show=commits,contribs&hide=stars&hide_rank=true&show_icons=true&hide_title=true#gh-light-mode-only)](https://github.com/azharcodeit/github-readme-stats#gh-light-mode-only)
